@@ -1,8 +1,14 @@
+<img src="https://github.com/yenchulin/Summer/raw/main/logo.png">
+
 # Summer
 
 A Chrome extension that uses OpenAI models to summarize user-selected text directly from any webpage.
 
 Select a paragraph, right-click, choose **"Summarize with Summer"**, and the generated summary appears directly on the page.
+
+![selection](https://github.com/yenchulin/Summer/raw/main/Summer-selection.png)
+
+![result](https://github.com/yenchulin/Summer/raw/main/Summer-result.png)
 
 ## Features
 
